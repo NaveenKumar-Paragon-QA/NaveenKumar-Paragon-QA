@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-01T19:56:01 IST" name="Default suite" finished-at="2022-12-01T19:56:05 IST" duration-ms="4189">
+    <groups>
+    </groups>
+    <test started-at="2022-12-01T19:56:01 IST" name="Default test" finished-at="2022-12-01T19:56:05 IST" duration-ms="4189">
+      <class name="PDF_Content_Reader_Validator.PDFReader_HeadlessBrowserCO">
+        <test-method is-config="true" signature="setup()[pri:0, instance:PDF_Content_Reader_Validator.PDFReader_HeadlessBrowserCO@121314f7]" started-at="2022-12-01T19:56:01 IST" name="setup" finished-at="2022-12-01T19:56:04 IST" duration-ms="2736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pdfReaderTest()[pri:0, instance:PDF_Content_Reader_Validator.PDFReader_HeadlessBrowserCO@121314f7]" started-at="2022-12-01T19:56:04 IST" name="pdfReaderTest" finished-at="2022-12-01T19:56:05 IST" duration-ms="1283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pdfReaderTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:PDF_Content_Reader_Validator.PDFReader_HeadlessBrowserCO@121314f7]" started-at="2022-12-01T19:56:05 IST" name="tearDown" finished-at="2022-12-01T19:56:05 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- PDF_Content_Reader_Validator.PDFReader_HeadlessBrowserCO -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
